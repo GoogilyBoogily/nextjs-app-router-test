@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "@heroicons/react": "1.0.6",
-    "@vercel/og": "0.6.2",
     "@vercel/speed-insights": "1.0.10",
     "clsx": "1.2.1",
     "date-fns": "2.29.3",
